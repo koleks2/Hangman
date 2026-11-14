@@ -1,0 +1,4 @@
+Word: relationship | Time: 38.268sec | Letters: t n a r e o i s h p l 
+Word: apple | Time: 11.186sec | Letters: e l p a 
+Word: dota | Time: 16.413sec | Letters: a p ф o r t d 
+Word: relationship | Time: 26.473sec | Letters: t i q x y p z u a w 
